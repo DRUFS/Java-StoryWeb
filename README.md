@@ -1,11 +1,7 @@
 # Java-StoryWeb
 Java programming - User interactive story tree
 
-I created a program in Java called StoryWeb.
-
-It is interactive with the user.
-
-StoryWeb prints out portions of stories of various genres with breaks in scenarios.
+StoryWeb is interactive with the user and prints out portions of stories of various genres with breaks in scenarios.
 
 Each story has a beginning, middle, and end.
 
